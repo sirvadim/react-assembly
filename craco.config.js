@@ -1,5 +1,4 @@
 const path = require('path')
-console.log('!!!!!!!!!!!!')
 module.exports = {
   webpack: {
     alias: {
